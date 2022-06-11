@@ -2,6 +2,8 @@
 
 Tutorial: https://camposha.info/android-examples/android-firebase-cloud-storage-recyclerview/#gsc.tab=0
 
+Can't get this project to run easily
+
 Firebase-Project: FirebaseStorageRtdRecyclerview
 
 Gradle signingReport
